@@ -6,3 +6,5 @@ if int(b)==0:
     print(f"int {a}")
 else:
     print(f"float {a} 0.{b}")
+
+
